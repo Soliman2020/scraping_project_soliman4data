@@ -35,5 +35,5 @@ https://soliman4data.wordpress.com/portfolio/
 > scrapy crawl zspider2 -o output2.csv
 12. New CSV file had created and it has second scraped data (projects github URLs and page titles)
 
-i.e. zspider_output.csv & zspider2_output.csv are attached here as references.
+i.e. output1.csv & output2.csv are attached in the repo as references.
 
