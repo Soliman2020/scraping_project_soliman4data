@@ -28,12 +28,12 @@ https://soliman4data.wordpress.com/portfolio/
 > code .
 7. Copy ALL Python code exists in zspider.py and paste it in your zspider file
 8. Run the following code to run the the first spider on the opened virtual environment:
-> scrapy crawl zspider -o output1.csv
+> scrapy crawl zspider -o output.csv
 9. New CSV file had created and it has first scraped data (project_names and corresponding URLs)
 10. Copy ALL Python code exists in zspider2.py and paste it in your zspiders file
 11. Run the following code to run the the second spider on the opened virtual environment:
 > scrapy crawl zspider2 -o output2.csv
 12. New CSV file had created and it has second scraped data (projects github URLs and page titles)
 
-i.e. output1.csv & output2.csv are attached in the repo as references.
+i.e. output.csv & output2.csv are attached in the repo as references.
 
